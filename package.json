@@ -1,0 +1,20 @@
+{
+  "name": "docpro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "directory-tree": "^2.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
